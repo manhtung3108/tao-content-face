@@ -1,0 +1,5 @@
+{
+  "name": "tao content facebook",
+  "description": "An application to generate Facebook posts with accompanying images using AI. Users can specify the post topic, image description, and tone of voice.",
+  "requestFramePermissions": []
+}
